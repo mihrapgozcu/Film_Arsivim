@@ -50,3 +50,22 @@ Bu proje, C# programlama dili kullanılarak geliştirilmiş bir film arşiv uygu
 - **btnTamEkran_Click:** Webview2 içerisindeki videoyu tam ekran yapma işlemi için JavaScript kullanarak gerekli komutlar çalıştırılır.
 - **btnRenkDegistir_Click:** Formun arka plan rengini rastgele seçilen renklerden biriyle değiştirir.
 
+## Uygulama Ekran Görüntüleri
+
+Aşağıda uygulamanın ekran görüntüleri bulunmaktadır:
+
+![Ana Ekran](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Ana%20Ekran.png)
+*Uygulamanın ana ekranı*
+
+![Film Ekleme](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Film%20Ekleme.png)
+*Yeni bir film eklenirken*
+
+![Hakkımızda](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Hakk%C4%B1m%C4%B1zda.png)
+
+![Renk Değiştirme](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Renk%20De%C4%9Fi%C5%9Ftirme.png)
+
+![Filmin Gözükmesi](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/ekranda%20filmin%20g%C3%B6z%C3%BCkmesi.png)
+
+![](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Tam%20ekran.png)
+*Webview2 kontrolünde tam ekran modunda video oynatma*
+
