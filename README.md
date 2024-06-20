@@ -40,7 +40,7 @@ Bu proje, C# programlama dili kullanılarak geliştirilmiş bir film arşiv uygu
    - Uygulama açıldığında, kayıtlı filmler `dataGridView1` üzerinde listelenecektir.
    - Yeni bir film eklemek için `Film Adı`, `Kategori` ve `Link` alanlarını doldurun ve `Kaydet` butonuna tıklayın.
    - Bir film kaydına çift tıklayarak, içerisindeki linki `btnTamEkran` butonu ile tam ekran modunda Webview2 kontrolünde görüntüleyin.
-   - Uygulamayı `btnCikis` butonu ile kapatabilirsiniz.
+   - Uygulamayı `Çıkış` butonu ile kapatabilirsiniz.
 
 ## Kod Açıklamaları
 
