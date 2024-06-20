@@ -57,10 +57,13 @@ Aşağıda uygulamanın ekran görüntüleri bulunmaktadır:
 *Yeni bir film eklenirken*
 
 ![Hakkımızda](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Hakk%C4%B1m%C4%B1zda.png)
+*Hakkımızda*
 
 ![Renk Değiştirme](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Renk%20De%C4%9Fi%C5%9Ftirme.png)
+*Renk Değiştirme*
 
 ![Filmin Gözükmesi](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/ekranda%20filmin%20g%C3%B6z%C3%BCkmesi.png)
+*Filmin açılması*
 
 ![](https://github.com/mihrapgozcu/Film_Arsivim/blob/master/Tam%20ekran.png)
 *Webview2 kontrolünde tam ekran modunda video oynatma*
