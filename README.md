@@ -1,8 +1,4 @@
-*******************************************************
-*                                                     *
-*                  Film Arşivim Uygulaması            *
-*                                                     *
-*******************************************************
+#   Film Arşivim Uygulaması   
 
 Bu proje, C# programlama dili kullanılarak geliştirilmiş bir film arşiv uygulamasıdır. Uygulama, kullanıcıların film bilgilerini kaydetmelerini ve bu bilgileri görüntülemelerini sağlar.
 
